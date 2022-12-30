@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on CraftBeer Dataset
+# World Beers and Breweries Data Analytics
 ***
 
 This project aims to perform exploratory data analysis on the Craftbeer and their breweries datasets.
